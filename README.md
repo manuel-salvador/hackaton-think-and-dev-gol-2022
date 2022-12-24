@@ -1,8 +1,9 @@
+## 🥇 1er puesto en el hackathon de Think & Dev en categoría Big Guys
 # Sportsbook
 
 dApp de coordinación de encuentros y apuestas en eventos deportivos entre equipos de deportes no profesionales.
 
-Permite la creacion de desafios deportivos de un equipo a otro, especificando un proveedor de locacion (réferi) quien será el encargado de dar por finalizado el resultado, y en el se deposita la confianza de subir el resultado correcto. Idealmente sería reemplazado por Chainlink o alguna tecnología que evite la necesidad de confiar en un tercero, y así ser trustless como la filosofía blockchain.
+Permite la creación de desafios deportivos de un equipo a otro, especificando un proveedor de locacion (réferi) quien será el encargado de dar por finalizado el resultado, y en el se deposita la confianza de subir el resultado correcto. Idealmente sería reemplazado por Chainlink o alguna tecnología que evite la necesidad de confiar en un tercero, y así ser trustless como la filosofía blockchain.
 
 Al momento de finalización de cada encuentro, se paga el monto apostado al ganador, y un pequeño fee al proveedor de locacion y al dueño del contrato Sportsbook por el servicio. Tambien se mintea un NFT para cada equipo como conmemoración del resultado del encuentro.
 
